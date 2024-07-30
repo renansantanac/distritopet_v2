@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    background-color: #ffffff;
+    background-color: white;
     color: #21538b;
     padding: 20px 0;
     text-align: center;
@@ -54,7 +54,7 @@ section {
 
 h2 {
     color: #21538b;
-    border-bottom: 2px solid #3978a1;
+    border-bottom: 2px solid #21538b;
     padding-bottom: 10px;
 }
 
